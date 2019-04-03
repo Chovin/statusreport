@@ -4,7 +4,7 @@
   "link": "https://specifyportal.uog.edu/",
   "repo": "OIT-UOG/specify-webportal-installer",
   "owner": "Chovin",
-  "statusRepo": "OIT-UOG/statusreport",
+  "statusRepo": "OIT-UOG/specify-statusreport",
   "services": ["Portal", "Images", "Database"],
   "statuses": {
     "operational": "#2ecc71",
@@ -16,5 +16,5 @@
     "degraded": "Degraded perfomance",
     "outage": "Major outage"
   },
-  "footer": "Hosted with ❤️ by GitHub. [OIT-UOG/statusreport](http://github.com/OIT-UOG/statusreport)"
+  "footer": "Hosted with ❤️ by GitHub. [OIT-UOG/specify-statusreport](http://github.com/OIT-UOG/specify-statusreport)"
 }
