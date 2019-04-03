@@ -5,7 +5,7 @@
   "repo": "OIT-UOG/specify-webportal-installer",
   "owner": "Chovin",
   "statusRepo": "OIT-UOG/specify-statusreport",
-  "services": ["Portal", "Images", "Database"],
+  "services": ["Portal", "Images", "Database", "Backups"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
