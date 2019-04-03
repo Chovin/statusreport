@@ -2,7 +2,7 @@
   "title": "Sepcify System Status",
   "name": "Specify portal",
   "link": "https://specifyportal.uog.edu/",
-  "repo": "https://github.com/OIT-UOG/specify-webportal-installer",
+  "repo": "OIT-UOG/specify-webportal-installer",
   "owner": "Chovin",
   "statusRepo": "OIT-UOG/statusreport",
   "services": ["Web Portal", "Image Server", "Database"],
